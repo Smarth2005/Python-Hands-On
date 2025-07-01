@@ -19,5 +19,6 @@ Welcome to **Python Hands-On** — a curated collection of my hands-on Python pr
 - To build a strong foundation that can support advanced topics in data science, machine learning, and software development.
 
 ### 📂 Repository Structure
-Will be updated soon.
+- `Core Python/` - Python language fundamentals — Introduction to syntax and datatypes, control structures, functions, string handling, basic data structures, exception handling, file handling, command line argument, Object-Oriented Programming
+- `Py-Libraries/` - Hands-on implementation of popular libraries — NumPy, Pandas, Matplotlib, Seaborn, SciPy, PyTorch
 
