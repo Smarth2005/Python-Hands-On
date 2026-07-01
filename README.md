@@ -61,7 +61,7 @@ Four volumes, each tracing a stage of my Python journey. Feel free to explore th
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="20"> &nbsp;Volume II — Object-Oriented Design
 
 **The Architecture.** Modeling the real world. A deep dive into Python's object-oriented paradigms:
-
+<br>
 
 ![Classes](https://img.shields.io/badge/Classes%20%26%20Objects-306998?style=flat-square&logoColor=white)
 ![Inheritance](https://img.shields.io/badge/Inheritance%20%26%20Polymorphism-306998?style=flat-square&logoColor=white)
