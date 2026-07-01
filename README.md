@@ -34,7 +34,7 @@ Four volumes, each tracing a stage of my Python journey. Feel free to explore th
 
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"> &nbsp;Volume I — Core Python
 
-**The Foundation.** Where it all begins — scripts covering the essential building blocks every Python program relies on.
+**The Foundation.** Where it all begins — scripts covering the building blocks of Python programming.
 
 ![Data Types](https://img.shields.io/badge/Data%20Types%20%26%20Syntax-1E3A5F?style=flat-square&logoColor=white)
 ![Loops](https://img.shields.io/badge/Loops%20%26%20Conditionals-1E3A5F?style=flat-square&logoColor=white)
