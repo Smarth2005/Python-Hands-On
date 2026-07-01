@@ -43,7 +43,7 @@ Four volumes, each tracing a stage of my Python journey. Feel free to explore th
 ![Data Structures](https://img.shields.io/badge/Lists%2C%20Dicts%20%26%20Sets-1E3A5F?style=flat-square&logoColor=white)
 ![Comprehensions](https://img.shields.io/badge/Comprehensions-1E3A5F?style=flat-square&logoColor=white)
 
-<br><br><br>
+<br>
 
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="20"> &nbsp;Volume III — Data Visualization
 
@@ -62,13 +62,13 @@ Four volumes, each tracing a stage of my Python journey. Feel free to explore th
 
 **The Architecture.** Modeling the real world. A deep dive into Python's object-oriented paradigms:
 
+
 ![Classes](https://img.shields.io/badge/Classes%20%26%20Objects-306998?style=flat-square&logoColor=white)
 ![Inheritance](https://img.shields.io/badge/Inheritance%20%26%20Polymorphism-306998?style=flat-square&logoColor=white)
 ![Encapsulation](https://img.shields.io/badge/Encapsulation%20%26%20Abstraction-306998?style=flat-square&logoColor=white)
 ![Dunder](https://img.shields.io/badge/Dunder%20%2F%20Magic%20Methods-306998?style=flat-square&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-306998?style=flat-square&logoColor=white)
 
-<br><br><br>
+<br>
 
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="20"> &nbsp;Volume IV — Data Science Stack
 
