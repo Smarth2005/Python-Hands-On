@@ -10,16 +10,12 @@
 
 Welcome! You've stumbled upon my **Python Hands-On Collection** — a curated digital notebook of my practical programming exercises. This isn't just a repository of code; it's a showcase of my Python journey through continuous experimentation.
 
-<br>
-
 ## 🎯 &nbsp;The Goal Behind the Collection
 
 I built this collection to:
 - Experiment Fearlessly — A sandbox to try, break, and rebuild — because real learning happens in the errors.
 - Build an evolving portfolio of Python implementations that serves as my personal reference for future use.
 - Lay the groundwork needed to confidently step into Data Science, Machine Learning, and Software Development.
-
-<br>
 
 ## 📖 &nbsp;What's Inside the Collection
 
@@ -84,15 +80,13 @@ Four volumes, each tracing a stage of my Python journey. Feel free to explore th
 </tr>
 </table>
 
-<br>
-
 ## 🤝 &nbsp;Let's Connect
 
 <div align="center">
 
 If you're also passionate about Python, Data Science, or just want to chat about tech, I'd love to connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/smarth-kaushal-02a1092b2/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smarth-kaushal-02a1092b2/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smarth2005)
 
 
